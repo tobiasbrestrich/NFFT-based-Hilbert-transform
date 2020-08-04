@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/284981701.svg)]
+<a href="https://zenodo.org/badge/latestdoi/284981701"><img src="https://zenodo.org/badge/284981701.svg" alt="DOI"></a>
 # The calculation of the Hilbert transform by a non-equispaced Fast Fourier Transform (NFFT) and its application to gravity and magnetic data
 Computes the Hilbert transform of vector fields in the space domain (see Nabighian, 1984). The convolution sum is efficiently calculated by (Potts et. al., 2004)s' fastsum algorithm.
  This package includes the following subdirectories:
